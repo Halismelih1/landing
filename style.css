@@ -600,7 +600,7 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 100%, rg
 	object-fit: cover;
 }
 #about .left .card .card-desc {
-	color: rgb(219, 219, 219);
+	color: rgb(255, 255, 255);
 	margin-bottom: 2.5rem;
 	font-family: 'Raleway', sans-serif;
 
@@ -625,7 +625,7 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 100%, rg
 	margin-bottom: 2rem;
 }
 #about .right .right-text {
-	color: rgb(219, 219, 219);
+	color: rgb(255, 253, 253);
 	font-family: 'Raleway', sans-serif;
 
 }
